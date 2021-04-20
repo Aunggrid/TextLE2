@@ -1,0 +1,127 @@
+
+.box-gray
+
+{
+
+    width: 2000;
+    background-color: rgba(75, 72, 72, 0.171);
+    
+    
+    }
+.Proftext{
+    color: rgb(255, 250, 250);
+    
+}
+
+
+
+.display-55{
+    font-size: 30px
+}
+
+.display-552{
+    color: rgba(68, 67, 67, 0.815);
+    font-size: 25px
+}
+.small-box1{
+    position: absolute;
+    background-color: rgba(85, 85, 85, 0.233);
+    color: white;
+    font-size: 18px;
+    padding: 4px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 22cm;
+    
+}
+.small-box2{
+    position: absolute;
+    background-color: rgba(85, 85, 85, 0.233);
+    color: white;
+    font-size: 18px;
+    padding: 4px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 18cm;
+    
+}
+.small-box3{
+    position: absolute;
+    background-color: rgba(85, 85, 85, 0.233);
+    color: white;
+    font-size: 18px;
+    padding: 4px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 20cm;
+    
+}
+.small-box4{
+    position: absolute;
+    background-color: rgba(85, 85, 85, 0.233);
+    color: white;
+    font-size: 18px;
+    padding: 4px 4px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 16cm;
+    
+}
+
+.logole{
+    margin-left: 200px;
+}
+.searchbarr {
+    position: absolute;
+     top: 34px;
+     right: 350px;
+    height: 10cm;
+    width: 5cm;
+}
+.box-nav{
+    width: 2000;
+    height:900px;
+    background-color: rgba(197, 60, 60, 0.938);
+    
+    
+    }
+.reg-box{
+    background-color: rgba(208, 19, 233, 0.788);
+    width: 140px;
+    height: 40px;
+}
+
+.lang-box{
+
+    margin-bottom: -10px;
+
+}
+.cardbtn{
+    width: 40px;
+    margin-top: -35px;
+    font-size: 20px;
+    border-radius: 50%;
+    
+}
+.cardbody{
+border-bottom: 2px solid black ;
+
+
+
+}
+.pagni{
+ margin-left: -650px;
+ 
+}
+.heart{
+    margin-top: -40px;
+    margin-left: 200px;
+}
+.pagnipage23controll{
+
+    margin-left: -140px;
+}
